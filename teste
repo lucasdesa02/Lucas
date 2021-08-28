@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title> LUCAS DE SÁ</title>
+</head>
+
+<body>
+
+  <maim>
+
+    <section>
+       <h1> <mark>Lucas de Sá<mark></h1>
+      <h2> <em>Enfermeiro</em></h2>
+      <p>Niterói/RJ</p>
+      <h2>Cursos:</h2>
+    </section>
+   <section>
+    <ul>
+      <li>BLS</li>
+      <li>EMR</li>
+    </ul>
+    </section>
+    <H2>Cursos que gostaria de fazer</h2>
+    <ol>
+      <li>PHTLS</li>
+    </ol>
+
+</body>
+
+</html>
